@@ -24,6 +24,8 @@ computer. Pervasive computing devices
 are network connected and constantly
 available. Pervasive computing is energy
 constraint, consumer safe and logistics. 
+
+
 ![Untitled](https://user-images.githubusercontent.com/1689639/162982422-58e2239c-596d-4fab-b8de-56cf5131a31e.png)
 
 It is widely applied in healthcare
